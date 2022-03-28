@@ -11,7 +11,6 @@
   inputs.src-nimibook-v0_2_1.ref   = "refs/tags/v0.2.1";
   inputs.src-nimibook-v0_2_1.owner = "pietroppeter";
   inputs.src-nimibook-v0_2_1.repo  = "nimibook";
-  inputs.src-nimibook-v0_2_1.dir   = "";
   inputs.src-nimibook-v0_2_1.type  = "github";
   
   inputs."nimib".owner = "nim-nix-pkgs";
